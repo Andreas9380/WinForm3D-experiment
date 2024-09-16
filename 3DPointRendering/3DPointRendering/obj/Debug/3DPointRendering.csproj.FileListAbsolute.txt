@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\bin\Debug\3DPointRendering.exe.config
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\bin\Debug\3DPointRendering.exe
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\bin\Debug\3DPointRendering.pdb
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\obj\Debug\3DPointRendering.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\obj\Debug\_3DPointRendering.Properties.Resources.resources
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\obj\Debug\3DPointRendering.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\obj\Debug\3DPointRendering.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\obj\Debug\3DPointRendering.exe
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\obj\Debug\3DPointRendering.pdb
+C:\Users\andre\source\repos\3DPointRendering\3DPointRendering\obj\Debug\_3DPointRendering.Form1.resources
